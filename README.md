@@ -1,6 +1,6 @@
 # Hi, I'm Piyush 👋
 
-### Aspiring Data Scientist | Python | Machine Learning
+### Software Engineering | Data Scientist | Python | Machine Learning
 
 I'm passionate about using data and machine learning to solve real-world problems.
 
