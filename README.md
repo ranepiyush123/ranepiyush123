@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Piyush 👋
 
-<!--
-**ranepiyush123/ranepiyush123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | Python | Machine Learning
 
-Here are some ideas to get you started:
+I'm passionate about using data and machine learning to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Featured Project
+
+### Electricity Load Forecasting Using Machine Learning
+Comparing ARIMA, SVM, and Random Forest for electricity demand prediction.
+
+## 🛠️ Technical Skills
+- Python and SQL
+- Pandas, NumPy, Scikit-learn
+- Machine Learning and Statistical Analysis
+- Data Visualisation
+- Time Series Forecasting
+
+## 🎯 Career Goal
+Seeking opportunities in Data Science to apply analytical and machine learning skills to real-world challenges.
+
+## 📫 Connect
+[My GitHub](https://github.com/ranepiyush123)
